@@ -11,11 +11,15 @@ The script is written in BASH and calls the GuidosToolbox command line function 
 
 ## Requirements
 In order to run this script, a OS running BASH is required (e.g. Linux, OSX). The script also requires two other programs:
+1. The GuidosToolbox command line executable mspa_lin64;
+2. The GDAL library.
+The GuidosToolbox can be downloaded from here: http://forest.jrc.ec.europa.eu/download/software/guidos/. The documentation on the functionality and where to find the command line function are found in the software help pages.
 
+GDAL - the Geospatial Data Abstraction Library can be found here: http://www.gdal.org/
 
 ## Suggestions
 
 ## File List
 
 ## Acknowledgements
-
+We would like to thank Peter Vogt for his suggestions when developing this script.
