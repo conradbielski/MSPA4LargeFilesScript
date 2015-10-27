@@ -22,4 +22,4 @@ GDAL - the Geospatial Data Abstraction Library can be found here: http://www.gda
 ## File List
 
 ## Acknowledgements
-We would like to thank Peter Vogt for his suggestions when developing this script.
+We would like to thank Peter Vogt from the JRC for his suggestions when developing this script.
