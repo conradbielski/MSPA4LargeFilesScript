@@ -19,8 +19,10 @@ GDAL - the Geospatial Data Abstraction Library can be found here: http://www.gda
 
 ## Suggestions
 Please familiarise yourself with the GuidosToolbox first before trying to run this particular script.
+The script at the moment only has a single command line parameter required to start the processing: the filename (including path). Therefore, any change to script parameters need to be made directly in the code.
 
 ## File List
+GUIDOS-tile.sh - bash script file
 
 ## Acknowledgements
 We would like to thank Peter Vogt from the JRC for his suggestions when developing this script.
